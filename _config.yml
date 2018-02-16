@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew S Evanusa"
 description              : &description "Representing Ongoing Research into Neural-Driven A.I."

@@ -1,5 +1,5 @@
 ---
-title: "Computer Science 421: Intro to AI"
+title: "CMCS 421: Intro to AI"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching1
