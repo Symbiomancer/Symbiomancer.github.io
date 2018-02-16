@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Matthew S Evanusa"
-  avatar           : "teaser.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D Student studying Neuro-inspired A.I."
   location         : "University of Maryland, College Park"
   employer         : University of Maryland
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=B9VfE1cAAAAJ&view_op=list_works&gmla=AJsN-F4IFMEiEuNVGfQcOwxhuFDryAT6pgeE1OlcyAdItwgiViGIbjntrQCllGsPReBvTKJYc7Jm_dMa7MYBM9vGJVRN5B4dLHWp237aoDiFnSG3akKq76U"
-  email            :
+  email            : "evanusa AT cs.umd.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Symbiomancer"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "robopolitik"
   vine             :
   weibo            :
   xing             :
