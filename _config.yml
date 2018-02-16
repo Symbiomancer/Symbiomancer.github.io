@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Matthew S Evanusa"
   avatar           : "profile.png"
-  bio              : "Ph.D Student studying Neuro-inspired A.I."
+  bio              : "Ph.D Student studying Neural A.I. through Cortex-Like Deep Networks"
   location         : "University of Maryland, College Park"
   employer         : University of Maryland
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=B9VfE1cAAAAJ&view_op=list_works&gmla=AJsN-F4IFMEiEuNVGfQcOwxhuFDryAT6pgeE1OlcyAdItwgiViGIbjntrQCllGsPReBvTKJYc7Jm_dMa7MYBM9vGJVRN5B4dLHWp237aoDiFnSG3akKq76U"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
