@@ -23,4 +23,4 @@ Non-Academic Pursuits
 
 I am a lover of music, and a cellist for the [UMD Gamer Symphony Orchestra](http://umd.gamersymphony.org/homepage.php).  I also enjoy the rain, Joseph Joestar, jazz piano, and politics. 
 
-![Cello](/home/robotnik/website/Symbiomancer.github.io/images/Cello.png "Cello")
+![Cello](Cello.png)
