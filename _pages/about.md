@@ -16,6 +16,8 @@ However, deep learning has made tremendous strides, so I do not think it is pert
 Specifically, I am focused on the issue of temporal data, which is difficult for current deep learning methods to learn, I believe due to the incompatibility of the backpropagation algorithm with current recurrent neural networks.  I research what are
 known as *reservoir computers*, random recurrent neural networks, and develop hybrid networks that take advantage of the temporal capabilities of reservoirs with the power of deep learning with backpropagation.
 
+I call these new networks *Hybrid Recurrent Networks*.  
+
 ![STDP](https://openi.nlm.nih.gov/imgs/512/356/3390410/PMC3390410_pcbi.1002584.g002.png?keywords=dependence,falls,depressions)
 
 I am advised by Yiannis Aloimonos in the Computer Science Department
@@ -28,6 +30,7 @@ Non-Academic Pursuits
 I am a lover of music, and a former Conductor, arranger, and cellist for the [UMD Gamer Symphony Orchestra](http://umd.gamersymphony.org/homepage.php).  My conducting can be found on the GSO youtube site.
 
 I also enjoy the rain, Joseph Joestar, jazz piano, and politics. 
+
 ![Conducting](conducting.jpg)
 
 ![Cello](Cello.png)
