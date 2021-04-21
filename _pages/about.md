@@ -20,7 +20,7 @@ I call these new networks *Hybrid Recurrent Networks*.
 
 ![STDP](https://openi.nlm.nih.gov/imgs/512/356/3390410/PMC3390410_pcbi.1002584.g002.png?keywords=dependence,falls,depressions)
 
-I am advised by Yiannis Aloimonos in the Computer Science Department
+I am advised by Yiannis Aloimonos and Cornelia Fermuller in the Computer Science Department and UMIACS. 
 
 
 
@@ -31,6 +31,6 @@ I am a lover of music, and a former Conductor, arranger, and cellist for the [UM
 
 I also enjoy the rain, Joseph Joestar, jazz piano, and politics. 
 
-![Conducting](conducting.jpg)
+![Conducting](conducting.png)
 
 ![Cello](Cello.png)
