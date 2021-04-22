@@ -18,17 +18,16 @@ known as *reservoir computers*, random recurrent neural networks, and develop hy
 
 I call these new networks *Hybrid Recurrent Networks*. 
 
-![reservoir][reservoir1.png]
+![reservoir](reservoir1.png)
 
 
-![pdr][PDRESN.png]
+![pdr](PDRESN.png)
 
-These networks can either be *rate encoding* like traditional deep networks, or *spiking* like the action potentials in the brain:
+These networks can either be *rate encoding* like traditional deep networks, or *spiking* like the action potentials in the brain. 
 
 
-![STDP](https://openi.nlm.nih.gov/imgs/512/356/3390410/PMC3390410_pcbi.1002584.g002.png?keywords=dependence,falls,depressions)
 
-I am advised by Yiannis Aloimonos and Cornelia Fermuller in the Computer Science Department and UMIACS. 
+I am advised by Yiannis Aloimonos and Cornelia Fermuller in the Computer Science Department and UMIACS.  I am also a UMD COMBINE Fellow; my COMBINE advisor is Michelle Girvan. 
 
 
 
