@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Neural Systems for A.I."
+title: "Beyond Gradient RNNs: Hybrid Brain-Inspired Deep Learning Approaches to Recurrent Networks."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,11 @@ However, deep learning has made tremendous strides, so I do not think it is pert
 Specifically, I am focused on the issue of temporal data, which is difficult for current deep learning methods to learn, I believe due to the incompatibility of the backpropagation algorithm with current recurrent neural networks.  I research what are
 known as *reservoir computers*, random recurrent neural networks, and develop hybrid networks that take advantage of the temporal capabilities of reservoirs with the power of deep learning with backpropagation.
 
-I call these new networks *Hybrid Recurrent Networks*. 
+The brain is known to be highly recurrent, with almost every area covered with recurrent or cyclical connections.  However, it is my hypothesis that RNNs are incompatible with current methods of
+gradient-based learning, such as in LSTMs.  My goal is to create new networks that are capable of handling temporal data, and temporal memory, in a way that jams with the current state of gradient-based learning. I
+thus sit at the intersection of computational neuroscience, deep learning, and machine learning.  
+
+I call these new networks *Hybrid Recurrent Networks* - networks capable of recurrent computation without the pitfalls of current RNN approaches. 
 
 ![reservoir](reservoir1.png)
 
